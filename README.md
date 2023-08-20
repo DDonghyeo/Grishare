@@ -1,5 +1,6 @@
 # 3-team-backend
 지켜조 - 상명대 멋쟁이 사자처럼 교내톤 3팀 백엔드
+![image](https://github.com/DDonghyeo/Grishare/assets/98632435/bc3083c9-80b7-4f9d-b855-a8fa87be3804)
 
 ---
 ## Version
